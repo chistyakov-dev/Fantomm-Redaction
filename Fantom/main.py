@@ -106,9 +106,8 @@ while True:
                 print_menu("ℹ️ О НАС", [
                     ("FANTOMM Redaction", ""),
                     ("от Cheymi Platforms", ""),
-                    ("📅 Версия:", "V3.1.2"),
+                    ("📅 Версия:", "V3.1.3"),
                     ("👥 Разработчик:", "Егор Чистяков aka chistdev"),
-                    ("📱 Сайт:", "https://cheymiplatforms.netlify.app")
                 ])
                 input("\nНажмите Enter для продолжения...")
             
